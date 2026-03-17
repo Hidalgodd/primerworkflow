@@ -1,4 +1,4 @@
-name: Mi Primer Robot
+name: Sebastian
 
 on: [push]
 
@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Paso 1
-        run: echo "¡Hola Mundo!"
+        run: echo "Kpasa!"
